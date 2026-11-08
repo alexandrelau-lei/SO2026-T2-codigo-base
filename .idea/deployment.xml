@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Host (8e787210-b916-43b7-9257-a4a8669049d1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/SO2026-T2-codigo-base-completo (1)" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
